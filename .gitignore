@@ -1,0 +1,36 @@
+# Raw data files (not output)
+co2-data.csv
+GDP_per_capita.csv
+life-expectancy.csv
+Population.csv
+global_development_final.csv
+# Credentials
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tableau temp files
+*.twb~
+*.twbr
+*.twb
+
+# Images
+*.webp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+*.swp
+*.swo
